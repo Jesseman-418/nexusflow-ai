@@ -15,9 +15,9 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "NexusFlow AI - Intelligent Workflow Automation",
+  title: "Meridius AI — Your Business, Thinking",
   description:
-    "Automate everything with AI-powered workflows. Connect your apps, automate complex tasks, and scale your operations with intelligent automation.",
+    "Meridius connects your tools, knowledge and workflows into one operational intelligence.",
   keywords: [
     "AI automation",
     "workflow automation",
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
     "process automation",
   ],
   openGraph: {
-    title: "NexusFlow AI - Intelligent Workflow Automation",
+    title: "Meridius AI — Your Business, Thinking",
     description:
-      "Automate everything with AI-powered workflows. Connect your apps, automate complex tasks, and scale your operations.",
+      "Connect your tools, knowledge and workflows into one operational intelligence.",
     type: "website",
   },
 };
